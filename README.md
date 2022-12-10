@@ -1,6 +1,6 @@
 # Steps to lauch project:
 
-1. Убедитесь, что у вас установлен yarn
-2. Clone repository с помощью команды "git clone https://github.com/0RUS/Todo.git" или скачайте zip файл и разохивируйте.
-3. Используйте команду "yarn install" для установки нужных модулей
-4. Запустите проект командой "yarn start"
+1. Make sure you have yarn installed
+2. Clone repository using the command "git clone https://github.com/0RUS/Todo.git" or download a zip file and unzip.
+3. use the "yarn install" command to install the modules you want
+4. Start the project with the command "yarn start"
